@@ -15,5 +15,3 @@
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellorena)](https://github.com/GabrielLorena?tab=repositories)
