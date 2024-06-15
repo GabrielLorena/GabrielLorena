@@ -1,8 +1,8 @@
 
 ### Olá! Eu sou o Gabriel Lorena ✋
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Análise e Desenvolvimento de Sistemas 3/4
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas
+- 🌱 Estudante de Pós-Graduação em Desenvolvimento Web
 
 <div align="center">
   <a href="https://github.com/gabriellorena">
