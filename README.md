@@ -1,24 +1,27 @@
-
 ### Olá! Eu sou o Gabriel Lorena ✋
 
-- 🔭 Formado em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudante de Pós-Graduação em Desenvolvimento Web
+- 🔭 **Formado em Análise e Desenvolvimento de Sistemas**
+- 🌱 **Estudante de Pós-Graduação em Desenvolvimento Web Full-Stack** na Descomplica
+- 💻 **Atuando como Analista de Helpdesk** na Prefeitura de Itanhaém
+- 🎯 Focado em **Segurança da Informação** e **Infraestrutura**
+
+---
 
 <div align="center">
   <a href="https://github.com/gabriellorena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellorena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellorena&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellorena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellorena&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
-## Tecnologias que eu tenho conhecimento
-  
-<div style ="display: incline_block"><br/> 
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whitee">
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-</div>
+---
+
+## Sobre mim
+
+Sou **Analista de Helpdesk**, formado em Análise e Desenvolvimento de Sistemas e atualmente estudante de **Pós-Graduação em Desenvolvimento Web Full-Stack**. Estou em constante evolução nas áreas de **Infraestrutura** e **Segurança da Informação**, buscando sempre novos desafios e aprendizados.
+
+Nos meus momentos de lazer, gosto de **surfar** e **jogar**, sempre buscando equilíbrio entre a vida profissional e pessoal.
+
+---
 
 ![snake gif](https://github.com/GabrielLorena/GabrielLorena/blob/output/github-contribution-grid-snake.svg)
