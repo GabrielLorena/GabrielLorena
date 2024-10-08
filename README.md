@@ -23,5 +23,3 @@ Sou **Analista de Helpdesk**, formado em Análise e Desenvolvimento de Sistemas 
 Nos meus momentos de lazer, gosto de **surfar** e **jogar**, sempre buscando equilíbrio entre a vida profissional e pessoal.
 
 ---
-
-![snake gif](https://github.com/GabrielLorena/GabrielLorena/blob/output/github-contribution-grid-snake.svg)
